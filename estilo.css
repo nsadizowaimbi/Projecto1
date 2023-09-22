@@ -1,0 +1,83 @@
+.conteiner{
+background-color:rgb(38, 0, 255);
+color:yellow;
+display: flex;
+justify-content: center;
+}
+.imbi{
+    color: rgb(200, 255, 0);
+    background-color: #1900ff;
+    display: flex;
+    justify-content: center;
+    padding: 10px 20px;
+}
+.ndembo{
+    background-color:orange;
+}
+.sun {
+    color: blue;
+    display: flex;
+    justify-content: center;
+}
+.sun1{
+    display: flex;
+    justify-content:space-around;
+}
+.sun2{
+    display: flex;
+justify-content: space-around;
+}
+.preço{
+    display: flex;
+    justify-content: space-around;
+}
+.sophia{
+    display: flex;
+    justify-content:space-around;
+    color: white;
+    border-radius: 20px;
+
+}
+
+.Rodapé{
+    background-color:yellow;
+    display: flex;
+    flex-direction: row;
+    color: blue;
+    justify-content: space-around;
+}
+.col-md-6{
+    margin: 0 10px;
+
+}
+.C1{
+    text-align: center;
+}
+
+.loja{
+    display: flex;
+    justify-content: center;
+    color: rgba(29, 9, 202, 0.938);
+}
+li{
+    list-style: none;
+}
+.siga{
+  display: flex; 
+}
+.acessado{
+    display: flex;
+    background-color:orangered;
+    border-radius: 20px;
+    padding: 5px 35px;
+    border: 1px solid violet;
+    font-size: 15px;
+}
+button:hover{
+    background-color:white;
+    color: blue;
+    border-radius: 20px;
+    padding: 5px 35px;
+    
+    
+}
